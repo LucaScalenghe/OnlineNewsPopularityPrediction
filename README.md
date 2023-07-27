@@ -1,5 +1,5 @@
 # OnlineNewsPopularityPrediction
-Abstract— This report proposes an approach to building a
+Abstract — This report proposes an approach to building a
 predictive system for the popularity of online news. The proposed
 solution to the problem contains an analysis of the given dataset
 and provides insights on the dynamics that drive diffusion of
